@@ -1,0 +1,25 @@
+{
+  "name": "swiss-knife-utils",
+  "version": "0.0.0",
+  "description": "My must-have utils and type guards",
+  "license": "MIT",
+  "homepage": "https://github.com/BorisTB/swiss-knife",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BorisTB/swiss-knife.git",
+    "directory": "libs/core"
+  },
+  "keywords": [
+    "utils",
+    "typescript",
+    "logic",
+    "helpers"
+  ],
+  "author": {
+    "name": "BorisTB",
+    "url": "https://github.com/BorisTB"
+  },
+  "bugs": {
+    "url": "https://github.com/BorisTB/swiss-knife/issues"
+  }
+}
