@@ -13,6 +13,8 @@ export const testData = {
     expected: false,
     name: 'function'
   },
+  BooleanTrue: { value: true, expected: false, name: 'boolean true' },
+  BooleanFalse: { value: false, expected: false, name: 'boolean false' },
   NumberZero: { value: 0, expected: false, name: 'number zero' },
   NumberPositive: { value: 5, expected: false, name: 'positive number' },
   NumberNegative: { value: -5, expected: false, name: 'negative number' },
@@ -21,6 +23,7 @@ export const testData = {
   Null: { value: null, expected: false, name: 'null' },
   ObjectEmpty: { value: {}, expected: false, name: 'empty object' },
   ArrayEmpty: { value: [], expected: false, name: 'empty array' },
+  ArrayNonEmpty: { value: [1, 2], expected: false, name: 'non empty array' },
   Undefined: { value: undefined, expected: false, name: 'undefined' },
   HTMLElement: { value: document.createElement('div'), expected: false, name: 'HTML element' }
 }

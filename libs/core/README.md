@@ -35,9 +35,17 @@ function handleOnClick(cb) {
 
 ## Utils
 ### Logic
+  - isArray
+  - isBoolean
+  - isEmptyArray
+  - isEmptyString
   - isFunction
   - isHTMLElement
   - isNil
+  - isNonEmptyArray
+  - isNonEmptyString
+  - isNumber
+  - isString
 
 ### DOM
   - getWindowFromElement
