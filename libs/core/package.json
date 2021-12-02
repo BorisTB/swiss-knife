@@ -1,6 +1,6 @@
 {
   "name": "swiss-knife-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "My must-have utils and type guards",
   "license": "MIT",
   "homepage": "https://github.com/BorisTB/swiss-knife",
@@ -13,6 +13,7 @@
     "utils",
     "typescript",
     "logic",
+    "dom",
     "helpers"
   ],
   "author": {
